@@ -1,6 +1,6 @@
 # LikeProgressBar
 
-A nice progress bar with using the power of enum with SwiftUI 
+A nice progress bar using the power of enum with SwiftUI 
 
 ![Example](https://user-images.githubusercontent.com/8784343/209586982-66dc895e-22bb-4179-970f-03d1214c18f6.gif)
 
